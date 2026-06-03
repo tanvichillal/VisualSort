@@ -79,12 +79,3 @@ http://localhost:3000
 
 ---
 
-## 🚀 Future Improvements
-
-* Add more sorting algorithms
-* Add sound effects
-* Add algorithm comparison mode
-* Add dark/light theme toggle
-* Improve mobile responsiveness
-
----
