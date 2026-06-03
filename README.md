@@ -88,7 +88,3 @@ http://localhost:3000
 * Improve mobile responsiveness
 
 ---
-
-## 👩‍💻 Author
-
-Tanvi Chillal
