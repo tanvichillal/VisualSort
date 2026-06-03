@@ -1,21 +1,21 @@
 # VisualSort
 
-Interactive Sorting Algorithm Visualizer built using **React.js, Next.js, TypeScript, Tailwind CSS, and Framer Motion**.
+Interactive platform for visualizing and understanding sorting algorithms through real-time animations and dynamic comparisons.
 
-VisualSort helps users understand how different sorting algorithms work through smooth real-time animations and interactive visualizations.
+VisualSort helps users explore how different sorting algorithms work step-by-step using smooth visual transitions, interactive controls, and customizable arrays. The project is designed to simplify DSA learning by making algorithm behavior easier to observe and understand.
 
 ---
 
 ## ✨ Features
 
-* Visualize sorting algorithms step-by-step
-* Smooth real-time animations
-* Custom array input support
+* Step-by-step sorting visualization
+* Interactive array input
 * Random array generation
-* Adjustable speed controls
-* Dynamic bar highlighting
-* Responsive modern UI
-* Complexity information for each algorithm
+* Adjustable sorting speed
+* Dynamic comparison highlighting
+* Smooth real-time animations
+* Algorithm complexity information
+* Responsive and modern UI
 
 ---
 
@@ -30,52 +30,28 @@ VisualSort helps users understand how different sorting algorithms work through 
 
 ---
 
-## 🛠️ Tech Stack
-
-* React.js
-* Next.js
-* TypeScript
-* Tailwind CSS
-* Framer Motion
-
----
-
-## 📂 Project Structure
-
-```bash id="gqdd22"
-app/
-components/
-lib/
-public/
-```
-
----
-
 ## ⚡ Installation
 
 Clone the repository:
 
-```bash id="bl1i4g"
+```bash id="88j7sq"
 git clone https://github.com/tanvichillal/VisualSort.git
 ```
 
 Install dependencies:
 
-```bash id="nx3t4r"
+```bash id="aqezsn"
 npm install
 ```
 
 Run the development server:
 
-```bash id="8ntnn5"
+```bash id="ef71wp"
 npm run dev
 ```
 
 Open:
 
-```bash id="b0l13q"
+```bash id="1xmy1n"
 http://localhost:3000
 ```
-
----
-
